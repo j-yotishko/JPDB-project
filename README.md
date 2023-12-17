@@ -12,7 +12,6 @@ Online Student enrollment form using JPDB as backend. The form is highly interac
 
 # TECH STACK USED
 * HTML
-* CSS
 * JAVASCRIPT 
 * JsonPowerDB ( As Database)
 
